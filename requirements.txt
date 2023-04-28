@@ -1,0 +1,5 @@
+aws-sdk
+boto3
+redis
+pyspark
+streamlit
